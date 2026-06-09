@@ -50,8 +50,8 @@
 <img width="792" height="745" alt="air purifier view 1" src="https://github.com/user-attachments/assets/868eb6eb-295e-485c-b0a8-84513df85f0b" />
 
 
-### Name: Vikaash K S
-### Register Number: 212223240179
+### Name : VISHAL.C
+### Register Number: 212224100062
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
